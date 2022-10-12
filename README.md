@@ -20,7 +20,7 @@ nursing_request_status: 'pending',
 facility_id: null,
 created_at: '2022-10-05',
 treatment_plan_status: 'pending',
-treated_by: ''
+treated_by: "..",
 }})
 
 Therefore, one's get_consultation function is call it would return
