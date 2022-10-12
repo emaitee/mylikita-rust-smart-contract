@@ -7,8 +7,8 @@ Note: parameters like consultation_notes,treatmentPlan are required.
 
 Once the function, "setConsultation" is called and appropriate parameters are passed, the function will store the record onto the blockchain.
 
-Example: setConsultation({"consultation": {
-id: '8d789959-3ecd-49f8-bd5d-c0939163505d',
+Example: setConsultation({"payload": {
+id: '.....',
 patient_id: '1-7',
 userId: '5',
 consultation_notes: '......',
