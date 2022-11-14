@@ -37,3 +37,6 @@ Finally if you want to view the entire consultation record store then you can ca
 <p>https://mylikitahealth.medium.com/mylikita-receives-a-10-000-grant-from-the-near-foundation-3db18e928e15</p>
 <p>https://mylikitahealth.medium.com/how-mylikita-implements-blockchain-using-the-near-protocol-a1a84bb06329</p>
 </details>
+
+# Contribute
+If you know how to code, we welcome you to send fixes and new features, but in order to be efficient we ask you [to follow the following procedure](https://github.com/emaitee/mylikita-rust-smart-contract/blob/master/CONTRIBUTING.md).
